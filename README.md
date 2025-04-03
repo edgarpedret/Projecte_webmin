@@ -1,2 +1,2 @@
 # Projecte webmin
-### Grup: Edgar Pedret i Javier Jaca
+### Grup: Javi Jaca i Edgar Pedret
