@@ -56,3 +56,14 @@ Fer tot des de webmin
 
 #### Canviar data systema i comprobar si techno_pedret si pot entrar
 
+  - Posem aquest parametres en no perque ens deixi canviar l'horari
+
+    ![image](https://github.com/user-attachments/assets/01d4edbe-23a7-4dfc-88b5-ca431d3da6a7)
+
+  - Canvien a dia 1 de maig
+    
+    ![image](https://github.com/user-attachments/assets/d799cb1a-fa94-4074-b18a-a62f42030659)
+
+  - Comprobem que no ens deixa entrar
+
+    ![image](https://github.com/user-attachments/assets/2a583e7b-bbfc-4d22-bdf8-6d12254a6a13)
