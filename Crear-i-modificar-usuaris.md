@@ -21,7 +21,7 @@ Fer tot des de webmin
 
   ![image](https://github.com/user-attachments/assets/4d7eb951-e0be-486e-beef-5fcac45b41e6)
 
-#### Creem el hash
+#### Creem el hash de bakalao_pedret
 
   ![image](https://github.com/user-attachments/assets/fcfdf307-d255-4dc9-99bc-31234dd1af62)
 
@@ -33,5 +33,26 @@ Fer tot des de webmin
 
   ![image](https://github.com/user-attachments/assets/4cf2830f-006a-415f-8e74-145a0322d366)
 
+#### Creem el hash techno_pedret
+
+  ![image](https://github.com/user-attachments/assets/d0ba1f0c-5285-4dd5-9346-9b5208ce7e4d)
+
+
 #### Creem el usuari techno_pedret
+
+  ![image](https://github.com/user-attachments/assets/8c3f000c-8632-469d-b846-aa38c82b4576)
+
+  ![image](https://github.com/user-attachments/assets/629c4d4f-0968-4c55-8ad9-a343ecbe5454)
+
+#### Comprovar que els usuaris poden iniciar sesió
+
+  - bakalao_pedret
+    
+    ![image](https://github.com/user-attachments/assets/e3a86ba3-4588-4f22-86d0-f098f0c414fd)
+
+  - techno_pedret
+
+    ![image](https://github.com/user-attachments/assets/036654e1-724b-4299-93e2-9e03132ed553)
+
+#### Canviar data systema i comprobar si techno_pedret si pot entrar
 
