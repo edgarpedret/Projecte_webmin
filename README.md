@@ -7,3 +7,4 @@
 4. [Serveis](4.-Serveis.md)
 5. [Quotes de disc](5.-Quotes-de-disc.md)
 6. [Còpies de seguretat](6.-Copies-de-seguretat.md)
+7. [Compartició](7.-Comparticio.md)
